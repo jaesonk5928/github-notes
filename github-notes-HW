@@ -1,0 +1,7 @@
+- Git allows for version control with files/ it can also do software. This is useful for checking the history behind what you edit and when you edit the version. 
+- Github is a web service and can use Git for a network. You can do projects with version control. 
+- Repo[sitory] It can contain files and be a space for files. We can have many files in it. 
+- Always make sure to check the box every time when you want to save it for the future. 
+- Commit is basically a save button, when pressing it, you save the file.
+- There is a feature where you can add notes to the repository to help remind you what you did.  
+- Commit hash is the random numbers/letters as an identifier of a specific commit version. 
